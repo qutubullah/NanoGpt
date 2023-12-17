@@ -1,1 +1,6 @@
-# NanoGpt
+
+# nanogpt
+
+### License
+
+MIT
