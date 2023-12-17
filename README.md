@@ -1,5 +1,17 @@
+# NanoGPT Mini Shakespeare
 
-# nanogpt
-Created a simple nanogpt trained on a tiny Shakespere dataset from scratch using pytorch following transformer structure
-with bigram as basemodel for comparision.
+## Overview
 
+NanoGPT Mini Shakespeare is a text generation project that leverages the transformer architecture with a bigram-based model as a basemodel. This unique combination allows for efficient and creative language generation in the style of William Shakespeare.
+
+## Features
+
+- Transformer architecture with a bigram-based model
+- Efficient text generation
+- Trained on a mini version of Shakespeare's corpus
+
+## Getting Started
+
+## Model Details
+
+The model is built on the transformer architecture, with a unique twist—leveraging a bigram-based model as its foundation. This approach combines the efficiency of bigrams with the expressive power of transformers, resulting in a distinctive text generation experience. The model is trained on a mini version of Shakespeare's corpus for optimal performance.
